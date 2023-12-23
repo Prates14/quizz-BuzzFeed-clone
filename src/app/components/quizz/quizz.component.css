@@ -20,14 +20,15 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid #4224d9;
+    border: 2px solid #4224d9;
     border-radius: 8px;
     background-color: #644ed2;
     width: 100%;
     height: 200px;
     font-size: 20px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-bottom: 20px;
+    padding: 0 20px;
 }
 
 .quizz_options {
@@ -65,12 +66,15 @@
     margin-top: 10px;
     width: 100%;
     height: 350px;
-    background-color: #1f0539;
+    background-color: #3a058c;
     border-radius: 10px;
+    border: 1px solid #4224d9;
+    box-shadow: 0 0 3px 2px #000;
     padding: 30px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }

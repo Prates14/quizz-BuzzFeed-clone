@@ -41,10 +41,28 @@
       },
       {
         "id":5,
-        "question": "Qual o seu apelido de super ser ?",
+        "question": "Em uma situação crítica onde você terá que escolher entre salvar sua família ou salvar uma cidade inteira. Qual a sua decisão ?",
         "options":[
-          {"id": 1, "name":"O Terrivel", "alias":"A"},
-          {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+          {"id": 1, "name":"Salvo minha família", "alias":"A"},
+          {"id": 2, "name":"Salvo a cidade", "alias":"B"}
+        ]
+      },
+      {
+        "id":6,
+        "question": "Você se sacrificaria para aumentar as chances de completar a sua missão, mesmo sabendo que pode haver outra alternativa ?",
+        "options":[
+          {"id": 1, "name":"Não", "alias":"A"},
+          {"id": 2, "name":"Sim", "alias":"B"}
+        ]
+      },
+      {
+        "id":7,
+        "question": "Qual seu temperamento ?",
+        "options":[
+          {"id": 1, "name":"Sanguíneo", "alias":"A"},
+          {"id": 2, "name":"Colérico", "alias":"A"},
+          {"id": 2, "name":"Fleumático", "alias":"B"},
+          {"id": 2, "name":"Melancólico", "alias":"B"}
         ]
       }
     ],
